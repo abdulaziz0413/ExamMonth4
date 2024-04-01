@@ -674,6 +674,7 @@ a {
 	justify-content: space-between;
 	border-top: 2px solid black;
 	padding-top: 0px;
+	align-items: center;
 }
 
 .site-footer .logos .header-logo{
@@ -690,4 +691,5 @@ a {
 	line-height: 26px;
 	letter-spacing: 0.02em;
 	text-align: left;
+	align-items: center;
 }
